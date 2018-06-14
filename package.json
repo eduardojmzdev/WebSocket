@@ -1,0 +1,16 @@
+{
+  "name": "php_socketio",
+  "version": "0.0.1",
+  "description": "aplicacion en tiempo real con php y socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@edjz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "winston": "^2.4.0"
+  }
+}
